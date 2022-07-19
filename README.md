@@ -3,7 +3,7 @@
  ## 👋 alirz-pixel 👋
 
   
-  <h3 align="right"> ✏️ My Algorithm skills ✏️ &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </h3>
+  <h3 align="right"> ✏️ My Algorithm skills ✏️ &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </h3>
 
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ansrl"/>
  
