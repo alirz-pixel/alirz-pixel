@@ -9,8 +9,8 @@
  
     
   
-  꾸준한 노력과 성장을 마다하지 않는 개발자입니다. <br>
-  여기도 한번 놀러오세요! <Br>
+  문제해결에 호기심이 많은 개발자입니다. <br>
+  제 블로그에도 한번 놀러오세요! <Br>
   
   <a href="https://velog.io/@alirz-pixel"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   
